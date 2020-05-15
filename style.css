@@ -31,8 +31,7 @@ nav > a {
 }
 
 p#featured-property {
-  margin: 800px;
-  text-align: center;
+  font-size: 100px;
 }
 
 #details > div {
