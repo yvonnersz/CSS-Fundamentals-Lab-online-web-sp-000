@@ -31,11 +31,6 @@ nav > a {
   width: 800px
 }
 
-p#featured-property {
-  width: 800px;
-  text-align: center;
-}
-
 #details > div {
   display: block;
   float: left;
