@@ -28,7 +28,11 @@ nav > a {
 #featured-property {
   text-align: center;
   font-size: 12px;
-  width: 800px
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
 }
 
 #details > div {
