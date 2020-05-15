@@ -25,15 +25,13 @@ nav > a {
   background: gray;
 }
 
-#featured-property figure {
+#featured-property {
   text-align: center;
   font-size: 12px;
 }
 
-#featured-property p {
-  font-size: 12px;
-  width: 800px;
-  text-align: center;
+p#featured-property {
+  font-size: 100px;
 }
 
 #details > div {
