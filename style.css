@@ -30,7 +30,7 @@ nav > a {
   font-size: 12px;
 }
 
-p#featured-property {
+p > featured-property {
   width: 800px;
   text-align: center;
 }
