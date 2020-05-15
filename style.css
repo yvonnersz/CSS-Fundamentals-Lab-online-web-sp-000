@@ -30,6 +30,11 @@ nav > a {
   font-size: 12px;
 }
 
+#featured-property p {
+  text-align: center;
+  font-size: 12px;
+}
+
 #details > div {
   display: block;
   float: left;
