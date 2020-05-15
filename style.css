@@ -33,6 +33,7 @@ nav > a {
 #featured-property p {
   font-size: 12px;
   width: 800px;
+  text-align: center;
 }
 
 #details > div {
